@@ -16,7 +16,7 @@ public class Cruiser : MonoBehaviour
 
     [Range(0.0f, 1.0f)]
     public float banking = 0.1f;
-    public float maxSpeed = 5.0f;
+    public float maxSpeed = 10.0f;
     public float maxForce = 10.0f;
 
     public void OnDrawGizmos()
