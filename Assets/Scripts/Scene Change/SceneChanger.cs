@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
+    public float time = 0;
+    public float nextSceneNum = 0;
+
     void Start()
     {
         // coroutine
@@ -14,7 +17,7 @@ public class SceneChanger : MonoBehaviour
 
     IEnumerator Timer()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(time);
         nextScene();
     }
 
@@ -22,6 +25,6 @@ public class SceneChanger : MonoBehaviour
 
     public void nextScene()
     {
-        SceneManager.LoadScene("Scene 2");
+        SceneManager.LoadScene("Scene " + nextSceneNum);
     }
 }

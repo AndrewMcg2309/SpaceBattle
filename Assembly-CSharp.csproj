@@ -36,15 +36,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\SteeringBehaviour.cs" />
-     <Compile Include="Assets\Scripts\OffsetPursue.cs" />
-     <Compile Include="Assets\Scripts\Seek.cs" />
-     <Compile Include="Assets\Scripts\Path.cs" />
-     <Compile Include="Assets\Scripts\Cruiser.cs" />
-     <Compile Include="Assets\Scripts\FollowPath.cs" />
-     <Compile Include="Assets\Scripts\Persue.cs" />
-     <Compile Include="Assets\SoundClass.cs" />
-     <Compile Include="Assets\SceneChanger.cs" />
+     <Compile Include="Assets\Scripts\Scene Change\SceneChanger.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\SteeringBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\OffsetPursue.cs" />
+     <Compile Include="Assets\Scripts\Sound\SoundClass.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\Seek.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\Path.cs" />
+     <Compile Include="Assets\Scripts\Fighter\Cruiser.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
