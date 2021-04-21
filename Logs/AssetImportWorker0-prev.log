@@ -1,0 +1,1032 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1500; Version 1909; 64bit' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56988
+Successfully changed project path to: C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle
+C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002033 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.019 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.548600 ms (FindLiveObjects: 0.125200 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.308600 ms  DeleteObjects: 0.076700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/New Material 2.mat
+  artifactKey: Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 2.mat using Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9ec6ffaacbc260f1630c617f51236f') in 0.114509 seconds
+  Import took 0.118929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.290039 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_AlbedoTransparency.png
+  artifactKey: Guid(832f17ee684d31940b34ec639d5d32a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_AlbedoTransparency.png using Guid(832f17ee684d31940b34ec639d5d32a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46b8af698bdeff8244596a5c5fa37b3') in 0.040920 seconds
+  Import took 0.044896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png
+  artifactKey: Guid(f279c8fb4ec9ed4478a050cc191483e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png using Guid(f279c8fb4ec9ed4478a050cc191483e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9824577fce872ef1f6b0b922b2236b4d') in 0.022162 seconds
+  Import took 0.025558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_AO.png
+  artifactKey: Guid(f58e522903c624c4dae4792f71a7bdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_AO.png using Guid(f58e522903c624c4dae4792f71a7bdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c098148506a57cc9be68381780f1e69b') in 0.010095 seconds
+  Import took 0.013679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_AO.png
+  artifactKey: Guid(838b46c5cb786f048b3e9dc17d4fd40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_AO.png using Guid(838b46c5cb786f048b3e9dc17d4fd40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa728ced25b7c8586b781d501a01ee4') in 0.016704 seconds
+  Import took 0.021704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_MetallicSmoothness.png
+  artifactKey: Guid(d9adac17476936d4fbc222745b4fbe72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_MetallicSmoothness.png using Guid(d9adac17476936d4fbc222745b4fbe72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5861cda12b023104436164c82414b4db') in 0.031132 seconds
+  Import took 0.035188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_Normal.png
+  artifactKey: Guid(13f2e22cf8dc1cb4ba442ef80e985ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_Normal.png using Guid(13f2e22cf8dc1cb4ba442ef80e985ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e28b78fd43a994a0a054b8128a2ee16') in 0.010228 seconds
+  Import took 0.014417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_Normal.png
+  artifactKey: Guid(905dda17046b3cd4abc248ab65ea0655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_Normal.png using Guid(905dda17046b3cd4abc248ab65ea0655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a99ea440fe9bef5cf91b5eeb914975') in 0.015195 seconds
+  Import took 0.018799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_AO.png
+  artifactKey: Guid(d481d0e67febfdc458220408cafb97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_AO.png using Guid(d481d0e67febfdc458220408cafb97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1cbfaacd508e46fd43f8aae20a6c8bd') in 0.023365 seconds
+  Import took 0.026936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png
+  artifactKey: Guid(72cda86b61931294a8071d73b0299403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png using Guid(72cda86b61931294a8071d73b0299403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f8d924ab85122a0546c4bb57b025be') in 0.015797 seconds
+  Import took 0.019558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png
+  artifactKey: Guid(578064bbce26c1347a1c387842bf8cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png using Guid(578064bbce26c1347a1c387842bf8cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a529df3d5b7598fb60b15b292f7484f5') in 0.017925 seconds
+  Import took 0.025254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png
+  artifactKey: Guid(04a4dc03d7d0dc04a8d7ddfa39a8268b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png using Guid(04a4dc03d7d0dc04a8d7ddfa39a8268b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e709d315ed7caa2d068f83172045840a') in 0.007945 seconds
+  Import took 0.011934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_AlbedoTransparency.png
+  artifactKey: Guid(bcf5519b64c934145b5e588e8a12f390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_AlbedoTransparency.png using Guid(bcf5519b64c934145b5e588e8a12f390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870751282d24676751865d706c2f0769') in 0.007724 seconds
+  Import took 0.011341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_MetallicSmoothness.png
+  artifactKey: Guid(9a5455adcdec367449e5a8444adee461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_MetallicSmoothness.png using Guid(9a5455adcdec367449e5a8444adee461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec95b10c5b3a80be84be3b890d097402') in 0.008754 seconds
+  Import took 0.012316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_MetallicSmoothness.png
+  artifactKey: Guid(7bee80222f7d0ef4f93fc1214304259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_MetallicSmoothness.png using Guid(7bee80222f7d0ef4f93fc1214304259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb15ce302d5e3ad02f5b58098ac45653') in 0.008823 seconds
+  Import took 0.012476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_AO.png
+  artifactKey: Guid(4340dd4e5069b844bb0e0ec15bc61fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_AO.png using Guid(4340dd4e5069b844bb0e0ec15bc61fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b9fe28bc59468378b6b133a7a0e267') in 0.006973 seconds
+  Import took 0.010577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png
+  artifactKey: Guid(967f21e5e1baf65488bac47089f646bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png using Guid(967f21e5e1baf65488bac47089f646bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cceb6c1e479ca7ea6a2e255d5f69cff3') in 0.008793 seconds
+  Import took 0.012377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_AlbedoTransparency.png
+  artifactKey: Guid(bb236802ff40f774e8d117c6f991e7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_AlbedoTransparency.png using Guid(bb236802ff40f774e8d117c6f991e7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027a633ac2ace79c6f9121e1d23e39b7') in 0.008060 seconds
+  Import took 0.010934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_AO.png
+  artifactKey: Guid(d185cedf7bdbf594996c1ccc041e9842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_AO.png using Guid(d185cedf7bdbf594996c1ccc041e9842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2e539dd210b2f6e48e9a4a26ea6067') in 0.007881 seconds
+  Import took 0.010976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_MetallicSmoothness.png
+  artifactKey: Guid(5b4a2bb9ed538b647888983ddc7a7ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Shiny Red/CruiseFighter-v2_Check Point_MetallicSmoothness.png using Guid(5b4a2bb9ed538b647888983ddc7a7ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333bd5775003c663902276e4e03e7531') in 0.009779 seconds
+  Import took 0.011821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png
+  artifactKey: Guid(9a0ab1dce5498a348be7e8c7e89874e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png using Guid(9a0ab1dce5498a348be7e8c7e89874e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d97bf0f1d2e85193ac411c651a9a94') in 0.008582 seconds
+  Import took 0.011394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_AO.png
+  artifactKey: Guid(59de807f6d5cd784289fb49d0a3196c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_AO.png using Guid(59de807f6d5cd784289fb49d0a3196c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e529096c915d52f2a1ff5bedf0722d') in 0.006835 seconds
+  Import took 0.009181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_Normal.png
+  artifactKey: Guid(96d875354f4297641bf640009678a0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Gold/CruiseFighter-v2_Check Point_Normal.png using Guid(96d875354f4297641bf640009678a0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebf5d08895fff3e096b7a2607ed5ccd') in 0.007821 seconds
+  Import took 0.009870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png
+  artifactKey: Guid(56195eb2995037e45be4711996efae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_AlbedoTransparency.png using Guid(56195eb2995037e45be4711996efae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727e7d6e3f9b64307ddeb5dd03236d25') in 0.008360 seconds
+  Import took 0.010840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png
+  artifactKey: Guid(ad7e1e99eefe29d42bfc1fd22a38d7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_MetallicSmoothness.png using Guid(ad7e1e99eefe29d42bfc1fd22a38d7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac44aee54a5ad9292d724e59c575020') in 0.008145 seconds
+  Import took 0.010800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_AO.png
+  artifactKey: Guid(0b0d3b4e37a28cb47b434e7197da8dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rough Blue Metal/CruiseFighter-v2_Check Point_AO.png using Guid(0b0d3b4e37a28cb47b434e7197da8dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4dfd772526b88f8a73158b2f22335b0') in 0.006744 seconds
+  Import took 0.009426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_Normal.png
+  artifactKey: Guid(22819d389d2b95f40bf28559f0f72286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_Normal.png using Guid(22819d389d2b95f40bf28559f0f72286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0818963cb6e449aa8007063bc615bf63') in 0.008103 seconds
+  Import took 0.010538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_AlbedoTransparency.png
+  artifactKey: Guid(4826ee18686446742b52926d1c655352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_AlbedoTransparency.png using Guid(4826ee18686446742b52926d1c655352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4611f759884274e40d4855355848eaf9') in 0.008207 seconds
+  Import took 0.011034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AO.png
+  artifactKey: Guid(755d3af557defb54b8c28a78e5e19a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AO.png using Guid(755d3af557defb54b8c28a78e5e19a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b270a113d4941c57d2508713875b00fe') in 0.007353 seconds
+  Import took 0.009769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_Normal.png
+  artifactKey: Guid(22819d389d2b95f40bf28559f0f72286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Checkpoint/Rusty Red/CruiseFighter-v2_Check Point_Normal.png using Guid(22819d389d2b95f40bf28559f0f72286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0818963cb6e449aa8007063bc615bf63') in 0.007180 seconds
+  Import took 0.009469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004329 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AO.png
+  artifactKey: Guid(755d3af557defb54b8c28a78e5e19a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_AO.png using Guid(755d3af557defb54b8c28a78e5e19a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b270a113d4941c57d2508713875b00fe') in 0.007103 seconds
+  Import took 0.009641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843840 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_Normal.png
+  artifactKey: Guid(2a15f0cccbb8175468e8c88fe95adec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Shiny Black/CruiseFighter_Exhaust Outlet_Normal.png using Guid(2a15f0cccbb8175468e8c88fe95adec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82df295c322b83cf1d6374d7aef87f8') in 0.013456 seconds
+  Import took 0.015896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(e980c42de60921f4db12c06f8205bc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(e980c42de60921f4db12c06f8205bc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efb9db0cbbee54fff78e2d415110ca6') in 0.009321 seconds
+  Import took 0.011498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_Normal.png
+  artifactKey: Guid(0069ddfce25d1e84390fed91466d0483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Gun Metal/CruiseFighter_Exhaust Outlet_Normal.png using Guid(0069ddfce25d1e84390fed91466d0483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d43c41de79098de9c5439023536ab7') in 0.010436 seconds
+  Import took 0.013584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(eac16ff2157efed418cde66a3b746d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(eac16ff2157efed418cde66a3b746d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f5b50642e1138ea9018ac09c7c7a42') in 0.010225 seconds
+  Import took 0.012579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_Normal.png
+  artifactKey: Guid(ff30de5032415d9458eebafb8a36e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Gold/CruiseFighter_Exhaust Outlet_Normal.png using Guid(ff30de5032415d9458eebafb8a36e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec040de74f06c06c3781fb667c81dfd') in 0.010631 seconds
+  Import took 0.013244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_Normal.png
+  artifactKey: Guid(e765b82a47ee30948a93271cd75454ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exhaust Outlet/Steel Painted/CruiseFighter_Exhaust Outlet_Normal.png using Guid(e765b82a47ee30948a93271cd75454ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e228ebefa5d1375725fb6573180e82ef') in 0.011110 seconds
+  Import took 0.013771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(479e9c820a9e36f4ca76d4afcbba508f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(479e9c820a9e36f4ca76d4afcbba508f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99eafec2571c7250b21f8c86f117694') in 0.008323 seconds
+  Import took 0.010633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021284 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(533e0362ce4c01d48bd3261b8877e1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(533e0362ce4c01d48bd3261b8877e1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55282434a006f4cb6f70e27897aa224b') in 0.006680 seconds
+  Import took 0.008862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(0b0bb9e93b8edd3498c0bfc268f44192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_AO.png using Guid(0b0bb9e93b8edd3498c0bfc268f44192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd948055022ad06e693452df0b14388b9') in 0.007295 seconds
+  Import took 0.009971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(9c3d5b8ec9f875d4582f03012f62283b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_AO.png using Guid(9c3d5b8ec9f875d4582f03012f62283b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96e087fc7b1c1e102daaeddfffdefd9') in 0.007477 seconds
+  Import took 0.009890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(c13444f75d3ccae459fbebfc2c8f78aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(c13444f75d3ccae459fbebfc2c8f78aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad9e2d9cc243ad1deedad160e0a8903') in 0.008229 seconds
+  Import took 0.010415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(437d178240d463a4aa357658d63982dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_AO.png using Guid(437d178240d463a4aa357658d63982dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6fef12840c554fcc94e66dada28826c') in 0.007793 seconds
+  Import took 0.009988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_AlbedoTransparency.png
+  artifactKey: Guid(0b34c1a7e9134884d855bda62659ec0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_AlbedoTransparency.png using Guid(0b34c1a7e9134884d855bda62659ec0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f746d524962b74ebfda8f58ff0c26c6') in 0.008291 seconds
+  Import took 0.011037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(5be4b70037880a946af638ee455007d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AO.png using Guid(5be4b70037880a946af638ee455007d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79ca03eb61698670db7bc45f345f7eb') in 0.007510 seconds
+  Import took 0.010141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003861 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(5be4b70037880a946af638ee455007d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_AO.png using Guid(5be4b70037880a946af638ee455007d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79ca03eb61698670db7bc45f345f7eb') in 0.008088 seconds
+  Import took 0.010226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.204789 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(f321b3817208e884e8378fcde1b853d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_AO.png using Guid(f321b3817208e884e8378fcde1b853d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69fddd35f8ce97ce99fbdbcec4b335fc') in 0.006917 seconds
+  Import took 0.009032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_AO.png
+  artifactKey: Guid(f6d5201d6a705d64a90a0eb8569b1270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_AO.png using Guid(f6d5201d6a705d64a90a0eb8569b1270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc2eb186a978eac58d561263fbddfc0') in 0.007143 seconds
+  Import took 0.009767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(01f1b54ab2d4cd54cbc6357c6e5c8774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(01f1b54ab2d4cd54cbc6357c6e5c8774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c358e87860d9cf04ef9c82f9427fa7') in 0.010577 seconds
+  Import took 0.013207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(2fb5fceb26d128e4b80e798c49224de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(2fb5fceb26d128e4b80e798c49224de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574c5f2a05b23839438aa4226782dc31') in 0.010097 seconds
+  Import took 0.012105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(973fb1497b502a148ad2070134818532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(973fb1497b502a148ad2070134818532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc493d8cc776910eac505df10d17efe') in 0.009636 seconds
+  Import took 0.012134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(14c8cd859b4177c4d848a64889a3c007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(14c8cd859b4177c4d848a64889a3c007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15009d9338c314df905931dcd4bcf2cd') in 0.009358 seconds
+  Import took 0.011683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(0b51c8158ca383f4890c3e336290e4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(0b51c8158ca383f4890c3e336290e4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ba1b14e95190d707cbde6962e1db83') in 0.009298 seconds
+  Import took 0.011773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(d306251a742119f488b0dd735e931430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Worn Red/CruiseFighter_Exteria_Normal.png using Guid(d306251a742119f488b0dd735e931430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd094813c5c6186437aada9386d6d8f37') in 0.010795 seconds
+  Import took 0.013604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(0a03445e445df2247a8b71b6775429e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Black/CruiseFighter_Exteria_Normal.png using Guid(0a03445e445df2247a8b71b6775429e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6170fa7065ce28e16e45999cc2221f') in 0.009476 seconds
+  Import took 0.011837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(7d12b6f9d74360943b4799c560e1f1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Iron Shield/CruiseFighter_Exteria_Normal.png using Guid(7d12b6f9d74360943b4799c560e1f1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dcd72657207e5e465e7a5b3fa9fa4be') in 0.010049 seconds
+  Import took 0.012476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(2405573b2a47583448d955cd87abea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_Normal.png using Guid(2405573b2a47583448d955cd87abea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a650f2b5aa2e83e3c037e3581e83176') in 0.008765 seconds
+  Import took 0.011562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_AO.png
+  artifactKey: Guid(3c07eefad48fb1146b35783cacb3374e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_AO.png using Guid(3c07eefad48fb1146b35783cacb3374e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b710d7209a776ca62e2412d3e6e6f06') in 0.007647 seconds
+  Import took 0.010709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_MetallicSmoothness.png
+  artifactKey: Guid(22c47c43c453a014d856fb0e2b4d0d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_MetallicSmoothness.png using Guid(22c47c43c453a014d856fb0e2b4d0d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e7e3517fde0b9f5683430eaa904989') in 0.009220 seconds
+  Import took 0.011931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_AO.png
+  artifactKey: Guid(98ff49d5dde4218468454743d095a6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_AO.png using Guid(98ff49d5dde4218468454743d095a6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273544a66b279058f72532bc5231ee25') in 0.007755 seconds
+  Import took 0.010018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_AlbedoTransparency.png
+  artifactKey: Guid(1b313b25892ccbc46a0d9b971899c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_AlbedoTransparency.png using Guid(1b313b25892ccbc46a0d9b971899c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f2b99061052d4e037af9525853b22f') in 0.007252 seconds
+  Import took 0.009864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(2fb5fceb26d128e4b80e798c49224de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Silver/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(2fb5fceb26d128e4b80e798c49224de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574c5f2a05b23839438aa4226782dc31') in 0.009600 seconds
+  Import took 0.012131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_AlbedoTransparency.png
+  artifactKey: Guid(fdff083b0b8759649ab271f682e99895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_AlbedoTransparency.png using Guid(fdff083b0b8759649ab271f682e99895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de32c550c9dbab2f1524f8958538c57') in 0.007789 seconds
+  Import took 0.010313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_AO.png
+  artifactKey: Guid(a59f201b77bfc15489024bafa3b1acb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_AO.png using Guid(a59f201b77bfc15489024bafa3b1acb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66384d59b28e4b81054595472e316831') in 0.006788 seconds
+  Import took 0.009465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(030d35bbc8b05104894242943fe0be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_Normal.png using Guid(030d35bbc8b05104894242943fe0be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544f9755a29a70d821eb9040ce4eb2ef') in 0.008298 seconds
+  Import took 0.010183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_Normal.png
+  artifactKey: Guid(d0e1aad950a83914393e1a686a3bf03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Copper/CruiseFighter_Exteria_Normal.png using Guid(d0e1aad950a83914393e1a686a3bf03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f83760e47cd2c4edc265c7d7821f52') in 0.008259 seconds
+  Import took 0.010947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_AlbedoTransparency.png
+  artifactKey: Guid(c6fc5ea8faa08f04b90c919f9382f8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_AlbedoTransparency.png using Guid(c6fc5ea8faa08f04b90c919f9382f8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7af23bbdceee8f50353be141494c63') in 0.006431 seconds
+  Import took 0.008658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_MetallicSmoothness.png
+  artifactKey: Guid(1124bd1a35461954daea3f48e56bf099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Exteria/Shiny Red/CruiseFighter_Exteria_MetallicSmoothness.png using Guid(1124bd1a35461954daea3f48e56bf099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b172d920048e5148c12b72cd49253fb') in 0.008884 seconds
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.811674 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_MetallicSmoothness.png
+  artifactKey: Guid(06120843e9458fb418a9e501e6f73cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_MetallicSmoothness.png using Guid(06120843e9458fb418a9e501e6f73cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e5937045771b6dfc62b2a9f6b83081') in 0.008816 seconds
+  Import took 0.010683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_AlbedoTransparency.png
+  artifactKey: Guid(210cf986bea499b429cf0023973bb13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_AlbedoTransparency.png using Guid(210cf986bea499b429cf0023973bb13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14743f7694dd1355368bf4596076c65') in 0.008797 seconds
+  Import took 0.011116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_MetallicSmoothness.png
+  artifactKey: Guid(7e9095fc93cfbbe49bfee167ca569650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_MetallicSmoothness.png using Guid(7e9095fc93cfbbe49bfee167ca569650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449c252ab78c28288aebc59aed99ff05') in 0.014145 seconds
+  Import took 0.016496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_Normal.png
+  artifactKey: Guid(e73ebc42ac9e66d449e9d878f6ab8eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Iron Pure/CruiseFighter_Glowing_Normal.png using Guid(e73ebc42ac9e66d449e9d878f6ab8eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2246e1fde9bd475cebcf5efd2cee5aee') in 0.013439 seconds
+  Import took 0.015657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_AlbedoTransparency.png
+  artifactKey: Guid(bb46b19e99a70a74996df593b1d85731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_AlbedoTransparency.png using Guid(bb46b19e99a70a74996df593b1d85731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ffb605757722c84cb78442e3064b1dd') in 0.009519 seconds
+  Import took 0.011710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_AO.png
+  artifactKey: Guid(e7e55a2283c1f1548bf852cd02ccb487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_AO.png using Guid(e7e55a2283c1f1548bf852cd02ccb487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba306ab3701c51c787b33d0993fdeed4') in 0.008878 seconds
+  Import took 0.012107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_AO.png
+  artifactKey: Guid(7f5d3a29fa621d34bb94b1a4fc4c76bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_AO.png using Guid(7f5d3a29fa621d34bb94b1a4fc4c76bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69f8a28952f646c57b0adbc1ffd3bc1') in 0.009399 seconds
+  Import took 0.011850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_MetallicSmoothness.png
+  artifactKey: Guid(0e23e4a22b13851468a34fe0f73f3fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_MetallicSmoothness.png using Guid(0e23e4a22b13851468a34fe0f73f3fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43fdb8bb539f4d7d1f619e3109bccb86') in 0.015917 seconds
+  Import took 0.018294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_Normal.png
+  artifactKey: Guid(1d9c59256c508de45bd3d3ed2bcfc261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Metal Mesh/CruiseFighter_Vent_Normal.png using Guid(1d9c59256c508de45bd3d3ed2bcfc261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06fc41f0e1fc467415df5992354b33b') in 0.009326 seconds
+  Import took 0.011510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_Normal.png
+  artifactKey: Guid(93aefcf5b6603b847ad9c60937aa66b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_Normal.png using Guid(93aefcf5b6603b847ad9c60937aa66b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512c9fec7acb66cec3bcbbccffd7f0bc') in 0.010571 seconds
+  Import took 0.013197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_MetallicSmoothness.png
+  artifactKey: Guid(99e566a9f67d622489ce4dc22b468c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_MetallicSmoothness.png using Guid(99e566a9f67d622489ce4dc22b468c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a4ffd26f3faed54c662138fa11bd74') in 0.011660 seconds
+  Import took 0.014174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_AO.png
+  artifactKey: Guid(9c76991504ab195459d326b180c18722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_AO.png using Guid(9c76991504ab195459d326b180c18722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d36df6777f3b72827d101ecc6134252') in 0.009131 seconds
+  Import took 0.011138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_MetallicSmoothness.png
+  artifactKey: Guid(4c00180e70593d04883deb98224b9644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_MetallicSmoothness.png using Guid(4c00180e70593d04883deb98224b9644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c073f4d3a5f67fa966ddc6c5db2cd00e') in 0.011611 seconds
+  Import took 0.013489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_MetallicSmoothness.png
+  artifactKey: Guid(146cf4f1f47f2c74f866731473aa8b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_MetallicSmoothness.png using Guid(146cf4f1f47f2c74f866731473aa8b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97351ff430956c2a6d0de27058e9e15f') in 0.010370 seconds
+  Import took 0.012553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_AO.png
+  artifactKey: Guid(2373b2fcd751c7049a0a81f49ceaaeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_AO.png using Guid(2373b2fcd751c7049a0a81f49ceaaeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1d2a08091036d58fa9ad3299e09576') in 0.008425 seconds
+  Import took 0.010465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_AlbedoTransparency.png
+  artifactKey: Guid(01300fb6ad3363d4eb007cbe86d32feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Blue Hex/CruiseFighter_Vent_AlbedoTransparency.png using Guid(01300fb6ad3363d4eb007cbe86d32feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed328b5e9be9a0c6febf48b967aa8f6f') in 0.010628 seconds
+  Import took 0.012948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_Normal.png
+  artifactKey: Guid(45f825603fb28284eb79320ee44ef0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Gold/CruiseFighter_Glowing_Normal.png using Guid(45f825603fb28284eb79320ee44ef0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d22f71dc3709f3569ff6d206e6d68bd') in 0.008141 seconds
+  Import took 0.010254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_Normal.png
+  artifactKey: Guid(4bbba5832772a704faa3e03a2b82c9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Body Trim/Steel/CruiseFighter_Glowing_Normal.png using Guid(4bbba5832772a704faa3e03a2b82c9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6b04c08a79a4fcc857dec1d9f475fd') in 0.013045 seconds
+  Import took 0.015558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_AlbedoTransparency.png
+  artifactKey: Guid(55b8d7501cf76344680af1d4e50e95df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_AlbedoTransparency.png using Guid(55b8d7501cf76344680af1d4e50e95df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdfaa3808aad534a3aac1ee839b1ab3') in 0.011159 seconds
+  Import took 0.013302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_Normal.png
+  artifactKey: Guid(a1f185c90b5110d4493119be7cb653af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Red Matte/CruiseFighter_Vent_Normal.png using Guid(a1f185c90b5110d4493119be7cb653af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f5e311eec5ce04ab0fcbf833c675b7') in 0.009848 seconds
+  Import took 0.011989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_Normal.png
+  artifactKey: Guid(c0129ed129c6a3e4c896cca0d1184849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Vent/Carbon Fiber/CruiseFighter_Vent_Normal.png using Guid(c0129ed129c6a3e4c896cca0d1184849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3514bf43905fe7ebbbf5af97f0d51c85') in 0.012911 seconds
+  Import took 0.021604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.275883 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_AlbedoTransparency.png
+  artifactKey: Guid(347deddd2235b2747963dc81de4eefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_AlbedoTransparency.png using Guid(347deddd2235b2747963dc81de4eefd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6bf9f371eefc95d0f1b6763750393f') in 0.009222 seconds
+  Import took 0.011158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_AlbedoTransparency.png
+  artifactKey: Guid(03229eecc28f747408cdbce8acc33015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_AlbedoTransparency.png using Guid(03229eecc28f747408cdbce8acc33015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f027a6335830fafe18bcd3279b9a1a2') in 0.008717 seconds
+  Import took 0.010703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_MetallicSmoothness.png
+  artifactKey: Guid(0445c14339263204e942d845a3cf1690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_MetallicSmoothness.png using Guid(0445c14339263204e942d845a3cf1690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f786797b00632c0cd9e6bfd9ccf49e02') in 0.013158 seconds
+  Import took 0.015822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_MetallicSmoothness.png
+  artifactKey: Guid(18838157f7e68ad4bab94cbff4923798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_MetallicSmoothness.png using Guid(18838157f7e68ad4bab94cbff4923798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28463621b39254bb77eadfc9247f4f5a') in 0.010476 seconds
+  Import took 0.012885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_Normal.png
+  artifactKey: Guid(6b6a5ba9a8180004cb02561d68769a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_Normal.png using Guid(6b6a5ba9a8180004cb02561d68769a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b292fa7df9297712537ea502329b61be') in 0.008535 seconds
+  Import took 0.010698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_AO.png
+  artifactKey: Guid(df0df1d1465981d428d9ad32c2934b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_AO.png using Guid(df0df1d1465981d428d9ad32c2934b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524d78544d12918df14de69aafc2c3e3') in 0.008747 seconds
+  Import took 0.010584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_AO.png
+  artifactKey: Guid(2c1403a079e8b0b42a38b803ca96a9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Dark Blue/CruiseFighter_Window_AO.png using Guid(2c1403a079e8b0b42a38b803ca96a9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61499e7dcdfe9672e8c5f1a0eaa966e0') in 0.006755 seconds
+  Import took 0.009026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png
+  artifactKey: Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png using Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5ded845d3fe7c9609335588f911413') in 0.041486 seconds
+  Import took 0.044403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Gamer Squid/Demo/Demo Terrain.asset
+  artifactKey: Guid(3be5c0ae23bfbb94f8bf31b5de50b56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Demo/Demo Terrain.asset using Guid(3be5c0ae23bfbb94f8bf31b5de50b56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561e8d781d786ac0b32a4d730514cbb8') in 0.026091 seconds
+  Import took 0.028270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_Normal.png
+  artifactKey: Guid(0fb921764da8b9345b1683e0e1f7f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Textures/Window/Black/CruiseFighter_Window_Normal.png using Guid(0fb921764da8b9345b1683e0e1f7f973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99d7925e181a9160c85765b4f4dae7f') in 0.009931 seconds
+  Import took 0.012155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png
+  artifactKey: Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png using Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1752e136b6ca1b84626cab640f476090') in 0.030922 seconds
+  Import took 0.034418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_NRM_3K.png
+  artifactKey: Guid(f1d4a8c302309094ea7389bf1f20e16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_NRM_3K.png using Guid(f1d4a8c302309094ea7389bf1f20e16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a44ae42ea9aa47ef80afa4665e5d60') in 0.008049 seconds
+  Import took 0.010099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png
+  artifactKey: Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png using Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c67b9da96ffad5b8c496a22d0adb4a7') in 0.019487 seconds
+  Import took 0.021600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_COL_3K.png
+  artifactKey: Guid(2868e9f4b6e067d4ca99fb5572e97853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_COL_3K.png using Guid(2868e9f4b6e067d4ca99fb5572e97853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38666a707c72952a964574370293fff1') in 0.007589 seconds
+  Import took 0.009657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000813 seconds.
+  path: Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_COL_3K.png
+  artifactKey: Guid(2868e9f4b6e067d4ca99fb5572e97853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Demo/Environment/Textures/RoadCityWorn001_COL_3K.png using Guid(2868e9f4b6e067d4ca99fb5572e97853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38666a707c72952a964574370293fff1') in 0.009937 seconds
+  Import took 0.012979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178359 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png
+  artifactKey: Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png using Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c07066cb27e3ba414fe3851156866d') in 0.023312 seconds
+  Import took 0.027454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png
+  artifactKey: Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png using Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ce3b551b4708ba2b734d5d33ffb83e') in 0.011671 seconds
+  Import took 0.014454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.124763 seconds.
+  path: Assets/Materials/New Material 2.mat
+  artifactKey: Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 2.mat using Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad87167d783bc81bbf6fba293d7a0af') in 0.040965 seconds
+  Import took 0.044884 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.585700 ms (FindLiveObjects: 0.117300 ms CreateObjectMapping: 0.026800 ms MarkObjects: 1.393900 ms  DeleteObjects: 0.047000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000929 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.288 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 2.563400 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.045500 ms MarkObjects: 2.271400 ms  DeleteObjects: 0.074700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2688.833351 seconds.
+  path: Assets/Materials/New Material 3.mat
+  artifactKey: Guid(43cc574bad2591c4c9f68cb69bd41133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 3.mat using Guid(43cc574bad2591c4c9f68cb69bd41133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd7e80ead62c8bf0f458955090a15958') in 0.070391 seconds
+  Import took 0.073483 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 1.444800 ms (FindLiveObjects: 0.119000 ms CreateObjectMapping: 0.027400 ms MarkObjects: 1.247700 ms  DeleteObjects: 0.049800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.521887 seconds.
+  path: Assets/Materials/New Material 3.mat
+  artifactKey: Guid(43cc574bad2591c4c9f68cb69bd41133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 3.mat using Guid(43cc574bad2591c4c9f68cb69bd41133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2c4fcc1c02d94b2da3c3e08ef9d2bb') in 0.049954 seconds
+  Import took 0.051885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(2e892bfef3a585842b32b1fd82fea6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(2e892bfef3a585842b32b1fd82fea6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224d245228a29a54bdb71be5ee62061b') in 0.010178 seconds
+  Import took 0.013352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Materials/New Material 2.mat
+  artifactKey: Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 2.mat using Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4383fa136b4a05a09bb06ff37d8da949') in 0.028569 seconds
+  Import took 0.033776 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

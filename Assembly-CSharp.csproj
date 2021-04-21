@@ -45,6 +45,8 @@
      <Compile Include="Assets\Scripts\Fighter\Cruiser.cs" />
      <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
+     <Compile Include="Assets\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
+     <None Include="Assets\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
