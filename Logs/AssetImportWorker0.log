@@ -15,11 +15,11 @@ C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattl
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52516
+53598
 Successfully changed project path to: C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle
 C:/Users/andre/OneDrive/Documents/Computer Science - TUD - Year 4/GE2/SpaceBattle
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 23.23 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 26.13 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,208 +35,656 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002175 seconds.
+Registered in 0.001966 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 22.15 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 27.83 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.908 seconds
+- Completed reload, in  1.875 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000924 seconds.
+Registered in 0.001004 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.762 seconds
+- Completed reload, in  0.776 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.5 MB.
-System memory in use after: 69.5 MB.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.6 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1567.
-Total: 1.640400 ms (FindLiveObjects: 0.143100 ms CreateObjectMapping: 0.048200 ms MarkObjects: 1.366800 ms  DeleteObjects: 0.081600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Prefabs/ChangeScene.prefab
-  artifactKey: Guid(9e8286cb7070faf488806ca24fe94c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/ChangeScene.prefab using Guid(9e8286cb7070faf488806ca24fe94c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98cb95bc5c367ea6e114ddd662e1fc83') in 0.050425 seconds
-  Import took 0.053959 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.683400 ms (FindLiveObjects: 0.153700 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.380100 ms  DeleteObjects: 0.092300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.951505 seconds.
-  path: Assets/Gamer Squid/Assets/Models
-  artifactKey: Guid(eeb022b7239e95d40affc617bd849b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Models using Guid(eeb022b7239e95d40affc617bd849b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9c200dd7341de2115405b170274b2f') in 0.002270 seconds
-  Import took 0.005608 seconds .
+  path: Assets/Gamer Squid/Assets/Materials/Window/Window-Dark Blue.mat
+  artifactKey: Guid(532b5dab293b5c34ca82873f45da18a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Window/Window-Dark Blue.mat using Guid(532b5dab293b5c34ca82873f45da18a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baefa014a2cea524f834c11071f0a4d3') in 0.120769 seconds
+  Import took 0.122831 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.045641 seconds.
-  path: Assets/Gamer Squid/Assets/Models/CruiseFighter.fbx
-  artifactKey: Guid(7fea2db65062cc645a42de560c2e6d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Models/CruiseFighter.fbx using Guid(7fea2db65062cc645a42de560c2e6d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae8fee1f2a6432042c603e8d9c9a6db') in 0.152758 seconds
-  Import took 0.156304 seconds .
+  Time since last request: 0.000233 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Worn Red.mat
+  artifactKey: Guid(c4ab5301cc875d7498a02556521f5276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Worn Red.mat using Guid(c4ab5301cc875d7498a02556521f5276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285b542ba76a67731dd0e981f79e927c') in 0.034664 seconds
+  Import took 0.036951 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.827850 seconds.
-  path: Assets/Gamer Squid/Assets/Models/Materials
-  artifactKey: Guid(2704642876205c848b800110957bca36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Models/Materials using Guid(2704642876205c848b800110957bca36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a502e815bfdddca806ef7f9e393512') in 0.003419 seconds
-  Import took 0.007873 seconds .
+  Time since last request: 0.000244 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing2.mat
+  artifactKey: Guid(24f339a096fd9df4fb9080ff424c5e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing2.mat using Guid(24f339a096fd9df4fb9080ff424c5e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eaaa18cf429d9b157b30be8231643ca') in 0.027908 seconds
+  Import took 0.030202 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.041825 seconds.
-  path: Assets/Gamer Squid/Assets/Models/Materials/Lights.mat
-  artifactKey: Guid(ef37c643917e41944babcdf56642294d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Models/Materials/Lights.mat using Guid(ef37c643917e41944babcdf56642294d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5c4f0e2363cb864eec50cc84837b23') in 0.030390 seconds
-  Import took 0.034043 seconds .
+  Time since last request: 0.000294 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/Missile.mat
+  artifactKey: Guid(30d351457dfac9d40a8b07e6426fd177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/Missile.mat using Guid(30d351457dfac9d40a8b07e6426fd177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433c0ed0db3e6a10eb8d5b9e6363a8bd') in 0.019193 seconds
+  Import took 0.021224 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.758796 seconds.
-  path: Assets/Gamer Squid/Assets/Materials/Exteria
-  artifactKey: Guid(6c15209bd6e4e224d90021accc009e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Materials/Exteria using Guid(6c15209bd6e4e224d90021accc009e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1395c0ac3d4759c9715f24c763845eec') in 0.003576 seconds
-  Import took 0.007430 seconds .
+  Time since last request: 0.000207 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exhaust/Steel Gun Metal.mat
+  artifactKey: Guid(a91c8d5d11aa4c541b4b1571d9f2d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exhaust/Steel Gun Metal.mat using Guid(a91c8d5d11aa4c541b4b1571d9f2d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf769652e79cebb4eddf0079f22c0b7') in 0.018698 seconds
+  Import took 0.021406 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.195953 seconds.
-  path: Assets/Gamer Squid/Assets
-  artifactKey: Guid(476fc8be02d632543b17cba95de16951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets using Guid(476fc8be02d632543b17cba95de16951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3284c88616bd55124e3283d7aebc329d') in 0.002885 seconds
-  Import took 0.006534 seconds .
+  Time since last request: 0.000324 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Thrusters/Thrusters1.mat
+  artifactKey: Guid(2029c1e0d197912438111bb29eaa9885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Thrusters/Thrusters1.mat using Guid(2029c1e0d197912438111bb29eaa9885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf1086caaa161b1ff1a10e21f557fef') in 0.019656 seconds
+  Import took 0.022049 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.848592 seconds.
-  path: Assets/Gamer Squid/Assets/Materials
-  artifactKey: Guid(97169e7b59829054581e5d2f42bbefd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Materials using Guid(97169e7b59829054581e5d2f42bbefd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a6efcde467cdeec682ca73703c4899') in 0.002248 seconds
-  Import took 0.005681 seconds .
+  Time since last request: 0.000389 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing2.mat
+  artifactKey: Guid(c20e71ad321ca904793f92092b159096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing2.mat using Guid(c20e71ad321ca904793f92092b159096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4075b885483425fcca240cd545a99616') in 0.018018 seconds
+  Import took 0.020383 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.222288 seconds.
-  path: Assets/Gamer Squid/Assets/Prefabs
-  artifactKey: Guid(906243ec30133ea4abbb3194f84d817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Gamer Squid/Assets/Prefabs using Guid(906243ec30133ea4abbb3194f84d817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0158db6ed5f316a709743713b8ce23') in 0.003913 seconds
-  Import took 0.007463 seconds .
+  Time since last request: 0.000255 seconds.
+  path: Assets/Gamer Squid/Assets/Models/Materials/Window.mat
+  artifactKey: Guid(a7055640e938f714ea65c99da71a5261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Models/Materials/Window.mat using Guid(a7055640e938f714ea65c99da71a5261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aafd77bf539aea3ced222750764a15f0') in 0.009623 seconds
+  Import took 0.011661 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 230.375284 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Materials/SpaceBG.mat
-  artifactKey: Guid(0c4101bd6783744468ff67c4fef53014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/SpaceBG.mat using Guid(0c4101bd6783744468ff67c4fef53014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df2006a116d2b182f1817d7c5a37189') in 0.071088 seconds
-  Import took 0.075090 seconds .
+  Time since last request: 0.000238 seconds.
+  path: Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat
+  artifactKey: Guid(c1d543fb584b643408f83fef5d62be33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat using Guid(c1d543fb584b643408f83fef5d62be33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310a348aeb8f65e5c596d14f751cc009') in 0.058828 seconds
+  Import took 0.061268 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.455341 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Meshes/FreeExampleModules.FBX
-  artifactKey: Guid(660686678d5f55947881d7fe1a8292c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Meshes/FreeExampleModules.FBX using Guid(660686678d5f55947881d7fe1a8292c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016184965e78fd19b0916a88f4635178') in 0.312611 seconds
-  Import took 0.316649 seconds .
+  Time since last request: 0.000224 seconds.
+  path: Assets/SpaceSkies Free/Skybox_3/Purple_1K_Resolution.mat
+  artifactKey: Guid(697dcc1a69e1a2c4ea5db483875ede85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_3/Purple_1K_Resolution.mat using Guid(697dcc1a69e1a2c4ea5db483875ede85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3428cb38ee07be62e0c555185e9914eb') in 0.019142 seconds
+  Import took 0.021185 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.648362 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples
-  artifactKey: Guid(fd71d468f41a762458053e85400dced9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples using Guid(fd71d468f41a762458053e85400dced9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2036c81f083c994c0bb7256a99092566') in 0.002551 seconds
-  Import took 0.007822 seconds .
+  Time since last request: 0.000229 seconds.
+  path: Assets/SpaceSkies Free/Skybox_1/Pink_2K_Resolution.mat
+  artifactKey: Guid(9f69d571a9cb54943b5a80ccd6b19e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_1/Pink_2K_Resolution.mat using Guid(9f69d571a9cb54943b5a80ccd6b19e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e64322394611c2dea7b855cd3c59b42') in 0.020776 seconds
+  Import took 0.023342 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.061999 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example1_Grey.prefab
-  artifactKey: Guid(50d56e9319acd7440a97582160b01520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example1_Grey.prefab using Guid(50d56e9319acd7440a97582160b01520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8cd302dd7c794b43c1e7e2ba2f988b') in 0.655360 seconds
-  Import took 0.669916 seconds .
+  Time since last request: 0.000233 seconds.
+  path: Assets/SpaceSkies Free/Skybox_3/Purple_2K_Resolution.mat
+  artifactKey: Guid(246d4b1ad4a63004d8fcf3949494e5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_3/Purple_2K_Resolution.mat using Guid(246d4b1ad4a63004d8fcf3949494e5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11dafd494af69861458c53024c9e894') in 0.021813 seconds
+  Import took 0.024571 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example2_Grey.prefab
-  artifactKey: Guid(4ab2fc4928ff37746b26b549008cd60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example2_Grey.prefab using Guid(4ab2fc4928ff37746b26b549008cd60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca2614ed66a699f04154b83b4e45266') in 0.139191 seconds
-  Import took 0.155386 seconds .
+  Time since last request: 0.000238 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Vent/Red Matte.mat
+  artifactKey: Guid(318699c7d72ed4643964804af98a24e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Vent/Red Matte.mat using Guid(318699c7d72ed4643964804af98a24e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b0365c48c78daeb763d439a8da3bc9') in 0.019657 seconds
+  Import took 0.022059 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example5_Grey.prefab
-  artifactKey: Guid(dbaff94d077d3c847b0a5840c0da435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example5_Grey.prefab using Guid(dbaff94d077d3c847b0a5840c0da435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc13e246dd2958ce08af9fb666bab9e') in 0.140612 seconds
-  Import took 0.153657 seconds .
+  Time since last request: 0.000160 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exhaust/Shiny Black.mat
+  artifactKey: Guid(cd63fd152e9032a49bb881b7e0b5269f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exhaust/Shiny Black.mat using Guid(cd63fd152e9032a49bb881b7e0b5269f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa92fc972a45d1febaf65999a2c9c83a') in 0.019561 seconds
+  Import took 0.022104 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example1_Red.prefab
-  artifactKey: Guid(b90e0b5ced473594d8b3775f20a2aed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example1_Red.prefab using Guid(b90e0b5ced473594d8b3775f20a2aed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888b78a76d4a21282ff6498580587fee') in 0.149683 seconds
-  Import took 0.162595 seconds .
+  Time since last request: 0.000255 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Black.mat
+  artifactKey: Guid(020568ce6bb9b3245a24630d5282ca24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Black.mat using Guid(020568ce6bb9b3245a24630d5282ca24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74402b12ff957d43bd48cd3d0021100d') in 0.058348 seconds
+  Import took 0.060895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/UAV Trident/Materials/Mat_Toy.mat
+  artifactKey: Guid(234d49fc54c4a9244991469d9b70eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UAV Trident/Materials/Mat_Toy.mat using Guid(234d49fc54c4a9244991469d9b70eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b806bc68a02c70a288368c58faf36a') in 0.121688 seconds
+  Import took 0.125113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat
+  artifactKey: Guid(82c97815f01775d4899d78255a373dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat using Guid(82c97815f01775d4899d78255a373dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c16db48a98a7f8c7051ea1ff097480') in 0.020064 seconds
+  Import took 0.022900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Gamer Squid/Assets/Models/Materials/Vent.mat
+  artifactKey: Guid(5374a9363b40b774d9a8dd8898b0c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Models/Materials/Vent.mat using Guid(5374a9363b40b774d9a8dd8898b0c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2d2ea92e8934d49bdbf32f078fa02f') in 0.008691 seconds
+  Import took 0.011121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat
+  artifactKey: Guid(f221e96cfbb5d6040b82a97d3d5ff1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat using Guid(f221e96cfbb5d6040b82a97d3d5ff1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c9cd7c8fbf5011ff48ab9cd42fcca4') in 0.028818 seconds
+  Import took 0.031119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Green.mat
+  artifactKey: Guid(6a0ff067fa651004b8447b29a0092251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Green.mat using Guid(6a0ff067fa651004b8447b29a0092251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9c35f4cd2c919338ddeb08c85e26b3') in 0.027063 seconds
+  Import took 0.029354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Vent/Metal Mesh.mat
+  artifactKey: Guid(3768be26f44e9a74c880d9f05dcf2279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Vent/Metal Mesh.mat using Guid(3768be26f44e9a74c880d9f05dcf2279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd243885e4cd06efd2a748709aa9ee6') in 0.019502 seconds
+  Import took 0.021705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Blue.mat
+  artifactKey: Guid(ca28c97d23f98024fb31e22662eb58e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Blue.mat using Guid(ca28c97d23f98024fb31e22662eb58e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26dbffcd5cc9809e63bdca716e493939') in 0.032435 seconds
+  Import took 0.034898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Silver.mat
+  artifactKey: Guid(0ee03264de820c84db09f23e50cb24d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Silver.mat using Guid(0ee03264de820c84db09f23e50cb24d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3e7053b43de25eba2b19fd1bc9cebe') in 0.025485 seconds
+  Import took 0.028295 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000228 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example4_Grey.prefab
-  artifactKey: Guid(e8b14dde53114d242b5dcad7698a44a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example4_Grey.prefab using Guid(e8b14dde53114d242b5dcad7698a44a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8543760d2692dfd1bda15e35f0bb435') in 0.130950 seconds
-  Import took 0.144070 seconds .
+  path: Assets/Gamer Squid/Assets/Materials/Exhaust/Steel Painted.mat
+  artifactKey: Guid(85dfc3b2e53c9574d926e13d05612b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exhaust/Steel Painted.mat using Guid(85dfc3b2e53c9574d926e13d05612b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ee7d4b1f9e602ad5c5e7bb1c467034') in 0.021923 seconds
+  Import took 0.024197 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example3_Red.prefab
-  artifactKey: Guid(ded92bffdbffb794aa3304b5cf0497df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HiRezSpaceshipsCreatorFree/Prefabs/Examples/Example3_Red.prefab using Guid(ded92bffdbffb794aa3304b5cf0497df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8527e8c7ac966f814a120b7d030ee2') in 0.133512 seconds
-  Import took 0.146799 seconds .
+  Time since last request: 0.000224 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Purple.mat
+  artifactKey: Guid(b172b3eb38b7df64eb5c8a08420eea34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Purple.mat using Guid(b172b3eb38b7df64eb5c8a08420eea34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db80b7218c3b51e22805cef40d49197c') in 0.028891 seconds
+  Import took 0.031705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat
+  artifactKey: Guid(57125df2e9117bb40a32c83b6390c301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat using Guid(57125df2e9117bb40a32c83b6390c301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072c643f112cbffdddb36c4e999aece6') in 0.027302 seconds
+  Import took 0.029639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Shiny Black.mat
+  artifactKey: Guid(b2067fc9051e1334a84261904d7cfed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Shiny Black.mat using Guid(b2067fc9051e1334a84261904d7cfed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485cef842459c65649cdbd0ab00bffec') in 0.027239 seconds
+  Import took 0.029562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Shny Red.mat
+  artifactKey: Guid(b303465393770b64a921800a7e8e7cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Shny Red.mat using Guid(b303465393770b64a921800a7e8e7cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4064677af3b6ee8c5a7f07362f8d67bc') in 0.024705 seconds
+  Import took 0.027086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Orange.mat
+  artifactKey: Guid(8b52c4a2cbd2a8248b7c6e782e73497e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Orange.mat using Guid(8b52c4a2cbd2a8248b7c6e782e73497e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5d69dccafbfb0d3c154ee53dc8ed9f') in 0.028729 seconds
+  Import took 0.030859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat
+  artifactKey: Guid(58bc1c6f4cc25b942bb7eb6b75c68156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat using Guid(58bc1c6f4cc25b942bb7eb6b75c68156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11160cb04fcd18af975caf047db894e7') in 0.038372 seconds
+  Import took 0.040189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/StarSparrow/Materials/Unified/StarSparrow White.mat
+  artifactKey: Guid(f4515b3c7e536f347a12e8ed4566741c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/Unified/StarSparrow White.mat using Guid(f4515b3c7e536f347a12e8ed4566741c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f35ea8fc68a8cfdbc6f688ac7469c1') in 0.027387 seconds
+  Import took 0.029608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing6.mat
+  artifactKey: Guid(2dafd004b7ca39d4898282d5e1f2be19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing6.mat using Guid(2dafd004b7ca39d4898282d5e1f2be19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03caa7dfc8a601c513e5c452226715d6') in 0.018517 seconds
+  Import took 0.020909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/SpaceSkies Free/Skybox_1/Pink_1K_Resolution.mat
+  artifactKey: Guid(3e8bc5155c4c9ed46a63ac64c06408f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_1/Pink_1K_Resolution.mat using Guid(3e8bc5155c4c9ed46a63ac64c06408f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7565fc870237ded7f7b41a18af36fce5') in 0.012698 seconds
+  Import took 0.015021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/UAV Trident/Materials/Mat_military.mat
+  artifactKey: Guid(7d523d0b995ed8446b41769c2f7cf2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UAV Trident/Materials/Mat_military.mat using Guid(7d523d0b995ed8446b41769c2f7cf2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26f9a8ad3d77cef8ccc17fe66a2c606') in 0.047140 seconds
+  Import took 0.049435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Yellow.mat
+  artifactKey: Guid(5953a6e817e87be4195c31da8fdce334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Yellow.mat using Guid(5953a6e817e87be4195c31da8fdce334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a17be0ca48724496cf5f7f4681f947') in 0.028186 seconds
+  Import took 0.030546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Window/Window-Black.mat
+  artifactKey: Guid(8e0c99eadb2b798408bcf56a5a30b99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Window/Window-Black.mat using Guid(8e0c99eadb2b798408bcf56a5a30b99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220ac577f579459a14eaceefdfb8b65b') in 0.017317 seconds
+  Import took 0.019407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Body Trim/Steel.mat
+  artifactKey: Guid(2a80d4d363f18e346ba013fac2c52389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Body Trim/Steel.mat using Guid(2a80d4d363f18e346ba013fac2c52389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e5e94aa92bfca73147b0130a3da4f8') in 0.018952 seconds
+  Import took 0.021763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat
+  artifactKey: Guid(7da0d403d4fb0da40ac018d557c6db89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat using Guid(7da0d403d4fb0da40ac018d557c6db89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa117fc9ca3ea3c748a2bd09082a52a') in 0.017493 seconds
+  Import took 0.019805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Cyan.mat
+  artifactKey: Guid(d58bf68b17f9a4240aaeb5c200c9a12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Cyan.mat using Guid(d58bf68b17f9a4240aaeb5c200c9a12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053cfa02a6f27ba6e6a716daedad98ec') in 0.026306 seconds
+  Import took 0.028747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat
+  artifactKey: Guid(78944cc85fa085845b84141d319ac0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat using Guid(78944cc85fa085845b84141d319ac0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f167d9afa065b25a72f002a5e497f280') in 0.025929 seconds
+  Import took 0.028413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/StarSparrow/Materials/StarSparrow Red.mat
+  artifactKey: Guid(3574d5733ac60b941b175932e0a1aa2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/StarSparrow Red.mat using Guid(3574d5733ac60b941b175932e0a1aa2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff4b38c0bdeeb823fb65844ed6487d0') in 0.028009 seconds
+  Import took 0.030893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Materials/New Material 2.mat
+  artifactKey: Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 2.mat using Guid(e02aa8815420c4442bea091c1c733071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86b6b58dd9987d1e3fe99d93b7a4df4') in 0.020358 seconds
+  Import took 0.023918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing6.mat
+  artifactKey: Guid(9567a4c84505d3a41a397978275ffd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing6.mat using Guid(9567a4c84505d3a41a397978275ffd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817c6ff2dd1b738234e0273f6cbf7233') in 0.017384 seconds
+  Import took 0.020691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.236039 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Iron Sheild.mat
+  artifactKey: Guid(9139b644086af86458ea5b52bc69b2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Iron Sheild.mat using Guid(9139b644086af86458ea5b52bc69b2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e8a6ec7e0c8796725813e8ef348135') in 0.016932 seconds
+  Import took 0.019165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody13.mat
+  artifactKey: Guid(0a54a06feeed96649a96e5f8a061fd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody13.mat using Guid(0a54a06feeed96649a96e5f8a061fd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1a6feee691a7dd7f29ad6cfd1cc4d4') in 0.018140 seconds
+  Import took 0.020560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody2.mat
+  artifactKey: Guid(803ac2029c21fb14d85e6872c448d499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody2.mat using Guid(803ac2029c21fb14d85e6872c448d499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c85755bc072900aee69009679274d2') in 0.018655 seconds
+  Import took 0.020976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody2.mat
+  artifactKey: Guid(b4b55b1be105adb4598a03ab3a6fc0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody2.mat using Guid(b4b55b1be105adb4598a03ab3a6fc0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f6e6f75318dac174226726b788a331') in 0.017788 seconds
+  Import took 0.020368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exhaust/Gold.mat
+  artifactKey: Guid(0a52a3898ba185345b144aaaa18de509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exhaust/Gold.mat using Guid(0a52a3898ba185345b144aaaa18de509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f304f6b314baa6ce05653163b55446') in 0.018049 seconds
+  Import took 0.020502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/SpaceSkies Free/Skybox_2/Green_2K_Resoution.mat
+  artifactKey: Guid(269967744bbed1849a317b8175dc3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_2/Green_2K_Resoution.mat using Guid(269967744bbed1849a317b8175dc3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa07e098821aacd1424801a549661ba2') in 0.018256 seconds
+  Import took 0.020665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Lights/Lights.mat
+  artifactKey: Guid(325812d4ab63371419809ff05e776447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Lights/Lights.mat using Guid(325812d4ab63371419809ff05e776447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24d0355e69405537b284bd841623408') in 0.006894 seconds
+  Import took 0.008794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/SpaceSkies Free/Skybox_2/Green_1K_Resolution.mat
+  artifactKey: Guid(7532f699e134c3547b373487f6b4d57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceSkies Free/Skybox_2/Green_1K_Resolution.mat using Guid(7532f699e134c3547b373487f6b4d57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41dbaf199fb324916af46222eae900c') in 0.011173 seconds
+  Import took 0.013136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat
+  artifactKey: Guid(cb69702e662a4114aa3a332d2da74996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat using Guid(cb69702e662a4114aa3a332d2da74996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175046bc1a07cc56e6c70e652e33bc89') in 0.023030 seconds
+  Import took 0.025328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Iron Sheild.mat
+  artifactKey: Guid(9139b644086af86458ea5b52bc69b2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Iron Sheild.mat using Guid(9139b644086af86458ea5b52bc69b2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e8a6ec7e0c8796725813e8ef348135') in 0.021926 seconds
+  Import took 0.024605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody13.mat
+  artifactKey: Guid(4e219e4526922b441a10f1e5eec7bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody13.mat using Guid(4e219e4526922b441a10f1e5eec7bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e129606ac580497167aeed64179c5ed') in 0.016283 seconds
+  Import took 0.018886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/StarSparrow/Materials/BonusContent/Grey.mat
+  artifactKey: Guid(6b0bf81b9bf769c4cb75da722d4530a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarSparrow/Materials/BonusContent/Grey.mat using Guid(6b0bf81b9bf769c4cb75da722d4530a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476cb04e513f7b463799a352a19a5bd9') in 0.007588 seconds
+  Import took 0.009859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Gamer Squid/Assets/Models/Materials/Glowing.mat
+  artifactKey: Guid(498b477621fa65b449a247ef21fe9796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Models/Materials/Glowing.mat using Guid(498b477621fa65b449a247ef21fe9796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d3b4a900c8d1a77eae5e45edf21f10') in 0.006973 seconds
+  Import took 0.008806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Body Trim/Gold.mat
+  artifactKey: Guid(ca5b3356f7ec4464282b9fb5fda663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Body Trim/Gold.mat using Guid(ca5b3356f7ec4464282b9fb5fda663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa4ae99e832dbb3dd9f109bcaae5c2c') in 0.017375 seconds
+  Import took 0.019758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.258237 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Red/Engine1.mat
+  artifactKey: Guid(956326301d5293a4ab942fa696bafb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Red/Engine1.mat using Guid(956326301d5293a4ab942fa696bafb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30231c2dcc7d49de982f7f0e9aac261') in 0.016631 seconds
+  Import took 0.018905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Grey.mat
+  artifactKey: Guid(f8d15df95b7ef5a4ead9604b3e5b6597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Grey.mat using Guid(f8d15df95b7ef5a4ead9604b3e5b6597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fd463cd3699dd774dead019c91c4ae') in 0.240716 seconds
+  Import took 0.243075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Green.mat
+  artifactKey: Guid(aa1e936803633064facac17fa9620e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Green.mat using Guid(aa1e936803633064facac17fa9620e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5905104c9cc29f58ca634be2fa16f9fb') in 0.031015 seconds
+  Import took 0.033295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Red.mat
+  artifactKey: Guid(21085cfc4f7ff8a4291ed42a85f27537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Red.mat using Guid(21085cfc4f7ff8a4291ed42a85f27537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d96a3224a0bce9eec4c2b0b053984a') in 0.025921 seconds
+  Import took 0.028559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/Red/Cockpit3Red_interior.mat
+  artifactKey: Guid(844befb7bb5f4c146ac18156396a792f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/Red/Cockpit3Red_interior.mat using Guid(844befb7bb5f4c146ac18156396a792f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba78abc83f7ca3664f1cfb04c9350a4') in 0.019676 seconds
+  Import took 0.022838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Gamer Squid/Assets/Models/Materials/Exteria.mat
+  artifactKey: Guid(eb94a2c5089efe1468cbae3019f8d0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Models/Materials/Exteria.mat using Guid(eb94a2c5089efe1468cbae3019f8d0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e345a6dd7a2b7807f72a5c20821230c') in 0.009234 seconds
+  Import took 0.011097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitEquipments_Screens.mat
+  artifactKey: Guid(a27339738c63b7848a26fca5e1f654e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitEquipments_Screens.mat using Guid(a27339738c63b7848a26fca5e1f654e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded9a89f503094377c9a15d36f467fc4') in 0.012663 seconds
+  Import took 0.014585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/UAV Trident/Model/Materials/DefaultMat.mat
+  artifactKey: Guid(ebc87c95ac5f69e4e94a069ac45c7ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UAV Trident/Model/Materials/DefaultMat.mat using Guid(ebc87c95ac5f69e4e94a069ac45c7ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3eece27d261092d9bb8780a7245aa04') in 0.007797 seconds
+  Import took 0.009864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitsEquipments.mat
+  artifactKey: Guid(afcddc5880b41ed46995d9315d181ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitsEquipments.mat using Guid(afcddc5880b41ed46995d9315d181ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaa63d864c91f570ec88f4f19ba384d') in 0.025916 seconds
+  Import took 0.028181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Gamer Squid/Assets/Models/Materials/Exhaust Outlet.mat
+  artifactKey: Guid(a7b167f1fd65e2941a7ec0687d038fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Models/Materials/Exhaust Outlet.mat using Guid(a7b167f1fd65e2941a7ec0687d038fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3409107619b9a30e50256325bc7f4a0c') in 0.012426 seconds
+  Import took 0.014507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Grey/Engine1.mat
+  artifactKey: Guid(31a707914d7d21a43a08fefa9be7e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Grey/Engine1.mat using Guid(31a707914d7d21a43a08fefa9be7e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '145e799cdf64f8de34a81cb32ece88aa') in 0.016688 seconds
+  Import took 0.019255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Gamer Squid/Assets/Materials/Exteria/Copper.mat
+  artifactKey: Guid(a0bed05d1f3d8cc46b957df0ad548e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamer Squid/Assets/Materials/Exteria/Copper.mat using Guid(a0bed05d1f3d8cc46b957df0ad548e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41505bdc6ee6c30385db2b456c7491fa') in 0.020358 seconds
+  Import took 0.022824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitEquipments_TargetScreens.mat
+  artifactKey: Guid(acc1e4addf40628439f6ad5785c2801c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/CockpitEquipments/CockpitEquipments_TargetScreens.mat using Guid(acc1e4addf40628439f6ad5785c2801c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d7b62a93b92108405d85cf3c82eb91') in 0.018902 seconds
+  Import took 0.020835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat
+  artifactKey: Guid(defbdb8d47c401641be7b7c013675558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat using Guid(defbdb8d47c401641be7b7c013675558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6caa8d4ca75acba4cc54d20625015389') in 0.025852 seconds
+  Import took 0.028527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.570555 seconds.
+  path: Assets/Scenes/Scene 2.unity
+  artifactKey: Guid(423e61b166840984bacf981551712656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene 2.unity using Guid(423e61b166840984bacf981551712656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a74a282f6dae3895e4cce1805b6d64fc') in 0.006743 seconds
+  Import took 0.010970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.806045 seconds.
+  path: Assets/Scenes/Scene 1.unity
+  artifactKey: Guid(ea3fdcaff847c23429b32da574eebf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene 1.unity using Guid(ea3fdcaff847c23429b32da574eebf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e400be111ea25f45c7d78c8484f67c1e') in 0.002589 seconds
+  Import took 0.004684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000848 seconds.
+  path: Assets/Scenes/Scene 1.unity
+  artifactKey: Guid(ea3fdcaff847c23429b32da574eebf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene 1.unity using Guid(ea3fdcaff847c23429b32da574eebf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e400be111ea25f45c7d78c8484f67c1e') in 0.002139 seconds
+  Import took 0.004120 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000879 seconds.
+Registered in 0.000861 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.697 seconds
+- Completed reload, in  0.736 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.5 MB.
-System memory in use after: 73.6 MB.
+Unloading 1107 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1615.
-Total: 1.426000 ms (FindLiveObjects: 0.138600 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.203000 ms  DeleteObjects: 0.050700 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 1.364900 ms (FindLiveObjects: 0.126400 ms CreateObjectMapping: 0.031500 ms MarkObjects: 1.164300 ms  DeleteObjects: 0.042100 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
