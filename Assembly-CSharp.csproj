@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
      <Compile Include="Assets\Scripts\Scene Change\SceneChanger.cs" />
      <Compile Include="Assets\Scripts\Behaviour\SteeringBehaviour.cs" />
      <Compile Include="Assets\Scripts\Behaviour\OffsetPursue.cs" />
@@ -45,9 +46,10 @@
      <Compile Include="Assets\Scripts\Behaviour\Path.cs" />
      <Compile Include="Assets\Scripts\Fighter\Cruiser.cs" />
      <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
-     <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
      <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
-     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\MoveStraight.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraRotation.cs" />
      <None Include="Assets\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
