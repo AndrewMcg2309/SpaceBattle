@@ -9,8 +9,6 @@ public class Rotate : MonoBehaviour
 {
     public float xAngle, yAngle, zAngle;
 
-    private GameObject cube1, cube2;
-
     void Update()
     {
         this.transform.Rotate(xAngle, yAngle, zAngle, Space.Self);
