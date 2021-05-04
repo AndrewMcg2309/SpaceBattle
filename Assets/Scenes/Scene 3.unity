@@ -213,9 +213,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 600ef35a4ab05734583c0ca6be4b375b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeStart: 0
+  timeStart: 1
   readyToStart: 0
-  raiseSpeed: 1
+  raiseSpeed: 0.6
+  xAngle: -0.01
+  yAngle: -0.05
+  zAngle: 0
 --- !u!1001 &435455013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -297,7 +300,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 435455014}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7594f9115dfb3744db15db0d703d3b13, type: 3}
   m_Name: 
@@ -402,7 +405,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeStart: 0
   readyToStart: 0
-  raiseSpeed: 1
+  raiseSpeed: 0.6
+  xAngle: -0.01
+  yAngle: -0.05
+  zAngle: 0
 --- !u!1 &545114437
 GameObject:
   m_ObjectHideFlags: 0
@@ -586,9 +592,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 600ef35a4ab05734583c0ca6be4b375b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeStart: 0
+  timeStart: 2
   readyToStart: 0
-  raiseSpeed: 1
+  raiseSpeed: 0.6
+  xAngle: -0.01
+  yAngle: -0.05
+  zAngle: 0
 --- !u!1 &637725332
 GameObject:
   m_ObjectHideFlags: 0
@@ -1232,13 +1241,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1575441755}
-  m_LocalRotation: {x: 0.14089264, y: -0.8069233, z: -0.5324486, w: 0.21336044}
-  m_LocalPosition: {x: 119, y: 9, z: 945}
+  m_LocalRotation: {x: 0.06508191, y: -0.86463124, z: -0.47339302, w: 0.15516527}
+  m_LocalPosition: {x: 119, y: 12, z: 944}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 233.051, y: 55.329002, z: 130.866}
+  m_LocalEulerAnglesHint: {x: 232.98, y: 33.229004, z: 154.474}
 --- !u!1001 &1814343322
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1317,7 +1326,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2738870379487704376, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.048020273
+      value: -0.05197973
       objectReference: {fileID: 0}
     - target: {fileID: 5540082069086661249, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_RootOrder
@@ -1398,9 +1407,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 600ef35a4ab05734583c0ca6be4b375b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeStart: 0
+  timeStart: 1
   readyToStart: 0
-  raiseSpeed: 1
+  raiseSpeed: 0.6
+  xAngle: -0.01
+  yAngle: -0.05
+  zAngle: 0
 --- !u!1001 &1892398239
 PrefabInstance:
   m_ObjectHideFlags: 0
