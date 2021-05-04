@@ -36,24 +36,42 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
+     <Compile Include="Assets\Packages\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraRotateScene2.cs" />
+     <Compile Include="Assets\Scripts\Planet\Noise.cs" />
      <Compile Include="Assets\Scripts\Scene Change\SceneChanger.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Rotate.cs" />
      <Compile Include="Assets\Scripts\Behaviour\SteeringBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Planet\TerrainFace.cs" />
+     <Compile Include="Assets\Scripts\Planet\INoiseFilter.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraRotation.cs" />
      <Compile Include="Assets\Scripts\Behaviour\OffsetPursue.cs" />
+     <Compile Include="Assets\Scripts\Planet\RidgidNoiseFilter.cs" />
+     <Compile Include="Assets\Scripts\Behaviour\RotateShip.cs" />
+     <Compile Include="Assets\Scripts\Planet\NoiseFilterFactory.cs" />
+     <Compile Include="Assets\Scripts\Planet\MinMax.cs" />
      <Compile Include="Assets\Scripts\Sound\SoundClass.cs" />
-     <Compile Include="Assets\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
+     <Compile Include="Assets\Packages\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
+     <Compile Include="Assets\Scripts\Planet\ColourSettings.cs" />
+     <Compile Include="Assets\Scripts\Planet\Planet.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Seek.cs" />
+     <Compile Include="Assets\Scripts\Planet\SimpleNoiseFilter.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Path.cs" />
      <Compile Include="Assets\Scripts\Fighter\Cruiser.cs" />
+     <Compile Include="Assets\Scripts\Planet\NoiseSettings.cs" />
      <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
+     <Compile Include="Assets\Scripts\Planet\ColourGenerator.cs" />
      <Compile Include="Assets\Scripts\Behaviour\MoveStraight.cs" />
-     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
+     <Compile Include="Assets\Packages\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
-     <Compile Include="Assets\Scripts\Behaviour\RotateShip.cs" />
-     <None Include="Assets\HiRezSpaceshipsCreatorFree\Readme.txt" />
+     <Compile Include="Assets\Scripts\Planet\ShapeSettings.cs" />
+     <Compile Include="Assets\Scripts\Planet\ConditionalHideAttribute.cs" />
+     <Compile Include="Assets\Scripts\Planet\ShapeGenerator.cs" />
+     <Compile Include="Assets\Scripts\Planet\ConditionalHidePropertyDrawer.cs" />
+     <Compile Include="Assets\Scripts\Planet\PlanetEditor.cs" />
+     <Compile Include="Assets\Scripts\Turrets\SceneThreeTurret.cs" />
+     <None Include="Assets\Real Stars Skybox\Demo Scene\Documentation.txt" />
+     <None Include="Assets\Packages\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
