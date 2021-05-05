@@ -41,6 +41,8 @@ public class Cruiser : MonoBehaviour
         {
             this.behaviours.Add(b);            
         }
+
+        
     }
 
     public Vector3 SeekForce(Vector3 target)

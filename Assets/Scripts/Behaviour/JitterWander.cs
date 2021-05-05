@@ -10,6 +10,7 @@ public class JitterWander : SteeringBehaviour
 
     public Vector3 target;
     public Vector3 worldTarget;
+    
 
     public void OnDrawGizmos()
     {
