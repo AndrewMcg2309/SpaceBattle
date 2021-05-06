@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Camera\CameraRotationScene3.cs" />
      <Compile Include="Assets\Scripts\Behaviour\OffsetPursue.cs" />
      <Compile Include="Assets\Scripts\Planet\RidgidNoiseFilter.cs" />
+     <Compile Include="Assets\Scripts\Turrets\TurretFire.cs" />
      <Compile Include="Assets\Scripts\Behaviour\RotateShip.cs" />
      <Compile Include="Assets\Scripts\Planet\NoiseFilterFactory.cs" />
      <Compile Include="Assets\Scripts\Planet\MinMax.cs" />
@@ -76,7 +77,7 @@
      <Compile Include="Assets\Scripts\Planet\ConditionalHideAttribute.cs" />
      <Compile Include="Assets\Scripts\Planet\ShapeGenerator.cs" />
      <Compile Include="Assets\Scripts\Planet\ConditionalHidePropertyDrawer.cs" />
-     <Compile Include="Assets\Scripts\Turrets\TurretFire.cs" />
+     <Compile Include="Assets\Shake.cs" />
      <None Include="Assets\Real Stars Skybox\Demo Scene\Documentation.txt" />
      <None Include="Assets\Packages\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
