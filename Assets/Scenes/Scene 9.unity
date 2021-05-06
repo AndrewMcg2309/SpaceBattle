@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 2d056ac30ecc9e542b26e06133f23602, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 246d4b1ad4a63004d8fcf3949494e5b3, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -5031,7 +5031,6 @@ GameObject:
   m_Component:
   - component: {fileID: 390001035}
   - component: {fileID: 390001034}
-  - component: {fileID: 390001033}
   - component: {fileID: 390001036}
   m_Layer: 0
   m_Name: Main Camera
@@ -5040,18 +5039,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &390001033
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 390001032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 879bfffae9789a04ba93a6be4b86ad42, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!20 &390001034
 Camera:
   m_ObjectHideFlags: 0
@@ -5359,7 +5346,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 80
+      scalar: 33
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -6056,7 +6043,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 40
+      scalar: 30
       minScalar: 10
       maxCurve:
         serializedVersion: 2
