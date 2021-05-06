@@ -59,11 +59,13 @@
      <Compile Include="Assets\Packages\StarSparrow\Readme\Readme Files\Scripts\ReadmeStarSparrow.cs" />
      <Compile Include="Assets\Scripts\Planet\ColourSettings.cs" />
      <Compile Include="Assets\Scripts\Planet\Planet.cs" />
+     <Compile Include="Assets\Scripts\Spawn\Spawn.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Seek.cs" />
      <Compile Include="Assets\Scripts\Planet\SimpleNoiseFilter.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Boid.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Path.cs" />
      <Compile Include="Assets\Scripts\Fighter\Cruiser.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraRotationScene6.cs" />
      <Compile Include="Assets\Scripts\Planet\NoiseSettings.cs" />
      <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
      <Compile Include="Assets\Scripts\Planet\ColourGenerator.cs" />
@@ -74,8 +76,7 @@
      <Compile Include="Assets\Scripts\Planet\ConditionalHideAttribute.cs" />
      <Compile Include="Assets\Scripts\Planet\ShapeGenerator.cs" />
      <Compile Include="Assets\Scripts\Planet\ConditionalHidePropertyDrawer.cs" />
-     <Compile Include="Assets\Scripts\Spawn\Spawn.cs" />
-     <Compile Include="Assets\Scripts\Camera\CameraRotationScene6.cs" />
+     <Compile Include="Assets\Scripts\Turrets\TurretFire.cs" />
      <None Include="Assets\Real Stars Skybox\Demo Scene\Documentation.txt" />
      <None Include="Assets\Packages\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
