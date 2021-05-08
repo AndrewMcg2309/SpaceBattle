@@ -15072,7 +15072,7 @@ ParticleSystemRenderer:
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
-  m_MinParticleSize: 0.01
+  m_MinParticleSize: 0.05
   m_MaxParticleSize: 1
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
@@ -16425,7 +16425,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 0.8396226, g: 0.70411557, b: 0.0039604935, a: 1}
-        key1: {r: 0.745283, g: 0.3511053, b: 0.20741367, a: 1}
+        key1: {r: 0.745283, g: 0.3511053, b: 0.20741367, a: 0.7254902}
         key2: {r: 1, g: 1, b: 1, a: 0}
         key3: {r: 1, g: 1, b: 1, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -16433,7 +16433,7 @@ ParticleSystem:
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
-        ctime1: 65535
+        ctime1: 41056
         ctime2: 65535
         ctime3: 65535
         ctime4: 0
@@ -16441,7 +16441,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 52621
+        atime1: 64957
         atime2: 0
         atime3: 0
         atime4: 0
@@ -24884,7 +24884,7 @@ ParticleSystemRenderer:
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
-  m_MinParticleSize: 0.01
+  m_MinParticleSize: 0.05
   m_MaxParticleSize: 1
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
@@ -26237,7 +26237,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 0.8396226, g: 0.70411557, b: 0.0039604935, a: 1}
-        key1: {r: 0.745283, g: 0.3511053, b: 0.20741367, a: 1}
+        key1: {r: 0.745283, g: 0.3511053, b: 0.20741367, a: 0.7254902}
         key2: {r: 1, g: 1, b: 1, a: 0}
         key3: {r: 1, g: 1, b: 1, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -26245,7 +26245,7 @@ ParticleSystem:
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
-        ctime1: 65535
+        ctime1: 41056
         ctime2: 65535
         ctime3: 65535
         ctime4: 0
@@ -26253,7 +26253,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 52621
+        atime1: 64957
         atime2: 0
         atime3: 0
         atime4: 0
@@ -40237,7 +40237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -500
-  time: 2
+  time: 2.7
   timeToExplsion: 2
   timeToTurn: 0
   timeToFinishTurn: 0

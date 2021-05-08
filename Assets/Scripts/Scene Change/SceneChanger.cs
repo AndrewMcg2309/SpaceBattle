@@ -7,6 +7,7 @@ public class SceneChanger : MonoBehaviour
 {
     public float time = 0;
     public float nextSceneNum = 0;
+    public bool endScene = false;
 
     void Start()
     {
@@ -25,6 +26,12 @@ public class SceneChanger : MonoBehaviour
 
     public void nextScene()
     {
-        SceneManager.LoadScene("Scene " + nextSceneNum);
+        if(endScene == true)
+        {
+            SceneManager.LoadScene("Scene End");
+        }
+        else{
+            SceneManager.LoadScene("Scene " + nextSceneNum);
+        }
     }
 }

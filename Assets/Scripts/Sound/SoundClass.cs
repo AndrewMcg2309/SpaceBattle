@@ -10,6 +10,11 @@ public class SoundClass : MonoBehaviour
         DontDestroyOnLoad(transform.gameObject);
         _audioSource = GetComponent<AudioSource>();
     }
+
+    void Start()
+    {
+        StartCoroutine(StopAudio());
+    }
  
     public void PlaySound()
     {
@@ -20,5 +25,11 @@ public class SoundClass : MonoBehaviour
     public void StopSound()
     {
         _audioSource.Stop();
+    }
+
+    System.Collections.IEnumerator StopAudio()
+    {
+        yield return new WaitForSeconds(81);
+        StopSound();
     }
 }

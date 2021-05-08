@@ -72,6 +72,7 @@
      <Compile Include="Assets\Scripts\Behaviour\FollowPath.cs" />
      <Compile Include="Assets\Scripts\Planet\ColourGenerator.cs" />
      <Compile Include="Assets\Scripts\Behaviour\MoveStraight.cs" />
+     <Compile Include="Assets\camera.cs" />
      <Compile Include="Assets\Packages\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
      <Compile Include="Assets\Scripts\Behaviour\Persue.cs" />
      <Compile Include="Assets\Scripts\Planet\ShapeSettings.cs" />
@@ -79,7 +80,6 @@
      <Compile Include="Assets\Scripts\Planet\ShapeGenerator.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraMovementScene11.cs" />
      <Compile Include="Assets\Scripts\Planet\ConditionalHidePropertyDrawer.cs" />
-     <Compile Include="Assets\camera.cs" />
      <None Include="Assets\Real Stars Skybox\Demo Scene\Documentation.txt" />
      <None Include="Assets\Packages\HiRezSpaceshipsCreatorFree\Readme.txt" />
     <Reference Include="UnityEngine">
