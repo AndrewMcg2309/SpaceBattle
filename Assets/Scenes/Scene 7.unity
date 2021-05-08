@@ -619,7 +619,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.1
+    scalar: 0.8
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -5312,6 +5312,7 @@ GameObject:
   m_Component:
   - component: {fileID: 621435820}
   - component: {fileID: 621435819}
+  - component: {fileID: 621435818}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -5319,6 +5320,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &621435818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621435817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3382481bf65667d46980385536770820, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  x: 0.005
+  y: 0.005
+  z: 0
+  velocity: 0
 --- !u!20 &621435819
 Camera:
   m_ObjectHideFlags: 0
@@ -29996,7 +30013,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.1
+    scalar: 0.8
     minScalar: 0
     maxCurve:
       serializedVersion: 2
