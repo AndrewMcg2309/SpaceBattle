@@ -5591,7 +5591,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.1
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -20021,7 +20021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   distance: 1
   fireRate: 1
-  timeToStart: 0.1
+  timeToStart: 1
   timeToReturn: 0.1
   timeToRepeat: 0.1
   mainWait: 0
@@ -25044,7 +25044,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.1
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -34716,7 +34716,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5540082069086661249, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5540082069086661249, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_LocalScale.x
@@ -34740,7 +34740,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5540082069086661249, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.9999924
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5540082069086661249, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -34852,7 +34852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35042,7 +35042,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -40008,7 +40008,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5658482717796181758, guid: 09da8dcaf7495164cafe465737905c42, type: 3}
       propertyPath: m_LocalPosition.x
