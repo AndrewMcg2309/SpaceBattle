@@ -7,9 +7,13 @@ https://www.youtube.com/watch?v=PqV2Ncxe8Ak&ab_channel=IllustratedFiction
 ## Storyboard:
 
 ### Scene 1
+## Time
 - 17s
+## Camera
+ - Camera slightly drifting 
+## Behaviours
 - Ships to move in straight line with one rotating 
-- Camera to slighly turn down
+- All staight line directional 
 
 ### Scene 2
 - 12s
@@ -62,11 +66,8 @@ https://www.youtube.com/watch?v=PqV2Ncxe8Ak&ab_channel=IllustratedFiction
 - Chaos with explosions and fighters
 - Camera moving to right 
 
-### Scene 13
-- Turrets firsing one last time towars ships 
-- Camera stays on turrets
+### Scene 13 - Final Scene
 
-### Scene 14
-- Space fighter blows up with chaos in background 
-- Camera still
-- Behaviours is sparatic and mayhme in background
+
+### Credit Scene
+
