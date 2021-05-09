@@ -49,7 +49,7 @@ public class Boid : MonoBehaviour
     }
 
     public Vector3 ArriveForce(Vector3 target, float slowingDistance = 40.0f)
-    {
+    { 
         Vector3 toTarget = target - transform.position;
 
         float distance = toTarget.magnitude;
