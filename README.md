@@ -29,87 +29,96 @@ Each of these scenes were separated and changed by a script that allows the time
 
 ### Scene 3
 #### Camera
-- Turrets rotate
+- Moves with turrets
 #### Behaviours
+- Turrets rotate up and out to face the enemy
 #### Display
-
-- Turrets roatate out of ship and turn to face others
+- Turrets used from asset store added to space ship from separate package 
 
 ### Scene 4
 #### Camera
+- Camera moves with turret and the uses "LookAt" to face the enemy ship and then zooms in at the ship
 #### Behaviours
+- Turrets rotating like previous scene
+- Swarm behaviour of all the enemy fighters
 #### Display
-
-- Turrets to come out and rotate then enemy ships to apporach 
-- Camera to follow the rotation of the turrets and then face the enemy ship
-- Swarm behaviour of oncomming ships
+- Turrets rotating out and lots of enemy ships with the mother ship behind it
 
 ### Scene 5
 #### Camera
+- Camera now at enemy ship facing down
 #### Behaviours
+- Swarm behaviour of all the enemy ships
 #### Display
-
-
-- Lots of enemy fighters swarm towards allies 
-- Camera to be still
-- Behaviour of enemy ships to move is to all move as a swarm but at same speed
+- All the enmy ships move down toawrds ship in swarm-like movements 
 
 ### Scene 6
 #### Camera
+- Camera moves slowely
 #### Behaviours
+- Turrets firing using particle systems 
 #### Display
-- Turret firing
-- Camera still
+- Turrets firing at a high rate
 
 ### Scene 7
 #### Camera
+- Slow movement of camera
 #### Behaviours
+- Large turrets on timed fire with timed movement of the shot recoil
 #### Display
-- Close up of turrets firing
-- Camera still
+- turrets firing large shots towards enemy
 
 ### Scene 8
 #### Camera
+- Slow movement of camera
 #### Behaviours
+- Large turrets on timed fire with timed movement of the shot recoil
 #### Display
-- Different anlge of scene 6 with turrets firing at allies 
-- Camera still
+- Different anlge of scene 6 with turrets firing at enemy 
+
 
 ### Scene 9
 #### Camera
+- Distance away from the two ships as they fire at each other
 #### Behaviours
+- Both ships still with two particle systems to replicate shots
 #### Display
-- Mothership and enemy ship to be firing at eachother from distance with ships fliying towards eachother 
-- Camera still
-- Ships swarm towards eachother with rockets being fired (can be done with particle system potentially)
+- All the shots being ired from both sides with big wide view 
 
 ### Scene 10
 #### Camera
+- Camera slowely turning upward
 #### Behaviours
+- Ship moving forward out of mist
 #### Display
-- More ships come out of smoke
-- Camera still
-- Ships moving in straight line 
+- Main ship still firing up at the enemy while another ship comes out of the mist
 
 ### Scene 11
 #### Camera
+- Focus on turret and then moves backwards with the rockets and stops when it explodes
 #### Behaviours
+- Turret fire on time with camera movement 
 #### Display
-- Turret turns and fires rockets
-- Camera moves with rocket and explodes
+- Movement of camera makes it seem the missiles are moving alongside it and then blows up with particle system
 
 ### Scene 12
 #### Camera
+- Random movement to show chaos 
 #### Behaviours
+- Patricle systems firing left and right wih movements from the enemy fighters 
 #### Display
-- Chaos with explosions and fighters
-- Camera moving to right 
+- Chaos
+- Explosions, missiles firing and ships flying
 
 ### Scene 13 - Final Scene
 #### Camera
+- Camera looks down at the ship 
 #### Behaviours
+- Enemy ships move with following behaviour to the furthest one ahead
+- Ship still and dissapears in a jump 
 #### Display
-
+- Ship dissapears into hyperspace with particle system to represent the movement
+- Missiles falling down along with enemy ships
 
 ### Credit Scene
 
