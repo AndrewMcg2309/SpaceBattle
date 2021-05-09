@@ -8,6 +8,7 @@ public class SceneChanger : MonoBehaviour
     public float time = 0;
     public float nextSceneNum = 0;
     public bool endScene = false;
+    public bool creditScene = false;
 
     void Start()
     {
@@ -30,8 +31,13 @@ public class SceneChanger : MonoBehaviour
         {
             SceneManager.LoadScene("Scene End");
         }
+        else if(creditScene == true)
+        {
+            SceneManager.LoadScene("Credit Scene");
+        }
         else{
             SceneManager.LoadScene("Scene " + nextSceneNum);
         }
+        
     }
 }
