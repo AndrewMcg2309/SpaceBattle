@@ -20,14 +20,16 @@ Each of these scenes were separated and changed by a script that allows the time
  
 ## Scene 2
 #### Camera
+- Camera moves along with ships then does a close up to the turning ship by changing the position of the camera over time set by a coroutine.
 #### Behaviours
+- Ship turns on a scale to have the top facing the enemy
+- Other ships moving in straight line
 #### Display
-
-- Ships to move in staight line and one ship to turn around
-- Camera to face up and then move to closer visual of turning ship
+- Ships moving alonside each other towards the enemy ship
 
 ### Scene 3
 #### Camera
+- Turrets rotate
 #### Behaviours
 #### Display
 
