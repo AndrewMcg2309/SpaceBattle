@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=PqV2Ncxe8Ak&ab_channel=IllustratedFiction
 
 
 Each of these scenes were separated and changed by a script that allows the time of each scene to be input and moves it to the next scene.
+Some scenes to note for behaviours are scene 2, 3, 4 End scene,
 
 ## Storyboard:
 
@@ -14,7 +15,7 @@ Each of these scenes were separated and changed by a script that allows the time
  - Camera slightly drifting 
 #### Behaviours
 - Ships to move in straight line with one rotating around itself to give twisting visual
-- All staight line directional 
+- All straight line directional 
 #### Display
 - Fog in background for misty planet in video
  
@@ -25,7 +26,7 @@ Each of these scenes were separated and changed by a script that allows the time
 - Ship turns on a scale to have the top facing the enemy
 - Other ships moving in straight line
 #### Display
-- Ships moving alonside each other towards the enemy ship
+- Ships moving alongside each other towards the enemy ship
 
 ### Scene 3
 #### Camera
@@ -33,7 +34,7 @@ Each of these scenes were separated and changed by a script that allows the time
 #### Behaviours
 - Turrets rotate up and out to face the enemy
 #### Display
-- Turrets used from asset store added to space ship from separate package 
+- Turrets used from asset store added to spaceship from separate package 
 
 ### Scene 4
 #### Camera
@@ -50,13 +51,13 @@ Each of these scenes were separated and changed by a script that allows the time
 #### Behaviours
 - Swarm behaviour of all the enemy ships
 #### Display
-- All the enmy ships move down toawrds ship in swarm-like movements 
+- All the enemy ships move down towards ship in swarm-like movements 
 
 ### Scene 6
 #### Camera
-- Camera moves slowely
+- Camera moves slowly
 #### Behaviours
-- Turrets firing using particle systems 
+- Turret’s firing using particle systems 
 #### Display
 - Turrets firing at a high rate
 
@@ -74,7 +75,7 @@ Each of these scenes were separated and changed by a script that allows the time
 #### Behaviours
 - Large turrets on timed fire with timed movement of the shot recoil
 #### Display
-- Different anlge of scene 6 with turrets firing at enemy 
+- Different angle of scene 6 with turrets firing at enemy 
 
 
 ### Scene 9
@@ -83,11 +84,11 @@ Each of these scenes were separated and changed by a script that allows the time
 #### Behaviours
 - Both ships still with two particle systems to replicate shots
 #### Display
-- All the shots being ired from both sides with big wide view 
+- All the shots being fired from both sides with big wide view 
 
 ### Scene 10
 #### Camera
-- Camera slowely turning upward
+- Camera slowly turning upward
 #### Behaviours
 - Ship moving forward out of mist
 #### Display
@@ -105,7 +106,7 @@ Each of these scenes were separated and changed by a script that allows the time
 #### Camera
 - Random movement to show chaos 
 #### Behaviours
-- Patricle systems firing left and right wih movements from the enemy fighters 
+- Particle systems firing left and right with movements from the enemy fighters 
 #### Display
 - Chaos
 - Explosions, missiles firing and ships flying
@@ -115,9 +116,10 @@ Each of these scenes were separated and changed by a script that allows the time
 - Camera looks down at the ship 
 #### Behaviours
 - Enemy ships move with following behaviour to the furthest one ahead
-- Ship still and dissapears in a jump 
+- 2 groups of following behaviours 
+- Ship still and disappears in a jump 
 #### Display
-- Ship dissapears into hyperspace with particle system to represent the movement
+- Ship disappears into hyperspace with particle system to represent the movement
 - Missiles falling down along with enemy ships
 
 ### Credit Scene
