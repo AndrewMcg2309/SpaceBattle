@@ -4,10 +4,12 @@ Assignment 2 - Games Engine 2
 Battlestar Galactica Space Battle
 https://www.youtube.com/watch?v=PqV2Ncxe8Ak&ab_channel=IllustratedFiction
 
-
 Each of these scenes were separated and changed by a script that allows the time of each scene to be input and moves it to the next scene.
 Some scenes to note for behaviours are scene 2, 3, 4 End scene.
 There is also a video of this in action in case there are issues with the sound not macthing. The video is located in the main folder
+
+Here is the video of my creation:
+https://www.youtube.com/watch?v=Z3A5qt4xfqo&ab_channel=AndrewMcgowan
 
 Items from Asset Store used:
 Cobble Games
