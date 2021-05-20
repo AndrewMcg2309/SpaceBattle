@@ -11,14 +11,50 @@ There is also a video of this in action in case there are issues with the sound 
 Here is the video of my creation:
 https://www.youtube.com/watch?v=Z3A5qt4xfqo&ab_channel=AndrewMcgowan
 
-Items from Asset Store used:
-Cobble Games
-F3_corvette
-Gamer Squid
-HiRezSpaceshipCreatorFree
-SF_Fighter
-SpaceSkies Free
-StarSparrow
+## Items from Asset Store used:
+- Cobble Games
+- F3_corvette
+- Gamer Squid
+- HiRezSpaceshipCreatorFree
+- SF_Fighter
+- SpaceSkies Free
+- StarSparrow
+
+## Behaviours used:
+- Jitter behaviour
+- Rotating behaviour
+- Follow behaviour
+- Wandering behaviour
+- Multiple different camera movement behaviours
+
+## Classes I wrote myself:
+- ALL classes in camera rotation folder 
+- ALL classes in turret folder 
+- SoundClass class
+- Spawn class
+- MoveStraight class
+- Rotate class
+- RotateShip class
+- RotateTurret class
+
+## Classes from other sources:
+- Cruiser class (boid) : https://github.com/skooter500/GE2-2020-2021
+- Jitter Wander : https://github.com/skooter500/GE2-2020-2021
+- SteeringBehaviour class : https://github.com/skooter500/GE2-2020-2021
+- FollowPath class : https://github.com/skooter500/GE2-2020-2021
+- Persue class : https://github.com/skooter500/GE2-2020-2021
+- Planet classes : https://github.com/SebLague/Procedural-Planets
+
+## Garphical Techniques
+#### Particle Systems
+- Particle system for turrets, 
+- Shots fired between two ships in scene 9 
+- Large particle system used to represent the fog / mist in scene 1
+- Particle system in final scene as the ship begins to jump
+- Credit scene is inside a particle syste,
+
+#### Trail Renderers
+- Trail renderers added to enemy fighters 
 
 
 ## Storyboard:
