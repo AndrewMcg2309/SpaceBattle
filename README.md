@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=Z3A5qt4xfqo&ab_channel=AndrewMcgowan
 - Wandering behaviour
 - Multiple different camera movement behaviours
 - Direct behaviours
-- Turret behaviours
+- Different turret behaviours
 
 ## Classes I wrote myself:
 - ALL classes in camera rotation folder 
