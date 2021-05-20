@@ -41,7 +41,7 @@ StarSparrow
 #### Display
 - Ships moving alongside each other towards the enemy ship
 
-### Scene 3
+## Scene 3
 #### Camera
 - Moves with turrets
 #### Behaviours
@@ -49,7 +49,7 @@ StarSparrow
 #### Display
 - Turrets used from asset store added to spaceship from separate package 
 
-### Scene 4
+## Scene 4
 #### Camera
 - Camera moves with turret and the uses "LookAt" to face the enemy ship and then zooms in at the ship
 #### Behaviours
@@ -58,7 +58,7 @@ StarSparrow
 #### Display
 - Turrets rotating out and lots of enemy ships with the mother ship behind it
 
-### Scene 5
+## Scene 5
 #### Camera
 - Camera now at enemy ship facing down
 #### Behaviours
@@ -66,7 +66,7 @@ StarSparrow
 #### Display
 - All the enemy ships move down towards ship in swarm-like movements 
 
-### Scene 6
+## Scene 6
 #### Camera
 - Camera moves slowly
 #### Behaviours
@@ -74,7 +74,7 @@ StarSparrow
 #### Display
 - Turrets firing at a high rate
 
-### Scene 7
+## Scene 7
 #### Camera
 - Slow movement of camera
 #### Behaviours
@@ -82,7 +82,7 @@ StarSparrow
 #### Display
 - turrets firing large shots towards enemy
 
-### Scene 8
+## Scene 8
 #### Camera
 - Slow movement of camera
 #### Behaviours
@@ -91,7 +91,7 @@ StarSparrow
 - Different angle of scene 6 with turrets firing at enemy 
 
 
-### Scene 9
+## Scene 9
 #### Camera
 - Distance away from the two ships as they fire at each other
 #### Behaviours
@@ -99,7 +99,7 @@ StarSparrow
 #### Display
 - All the shots being fired from both sides with big wide view 
 
-### Scene 10
+## Scene 10
 #### Camera
 - Camera slowly turning upward
 #### Behaviours
@@ -107,7 +107,7 @@ StarSparrow
 #### Display
 - Main ship still firing up at the enemy while another ship comes out of the mist
 
-### Scene 11
+## Scene 11
 #### Camera
 - Focus on turret and then moves backwards with the rockets and stops when it explodes
 #### Behaviours
@@ -115,7 +115,7 @@ StarSparrow
 #### Display
 - Movement of camera makes it seem the missiles are moving alongside it and then blows up with particle system
 
-### Scene 12
+## Scene 12
 #### Camera
 - Random movement to show chaos 
 #### Behaviours
@@ -124,7 +124,7 @@ StarSparrow
 - Chaos
 - Explosions, missiles firing and ships flying
 
-### Scene 13 - Final Scene
+## Scene 13 - Final Scene
 #### Camera
 - Camera looks down at the ship 
 #### Behaviours
@@ -135,5 +135,5 @@ StarSparrow
 - Ship disappears into hyperspace with particle system to represent the movement
 - Missiles falling down along with enemy ships
 
-### Credit Scene
+## Credit Scene
 
