@@ -51,13 +51,18 @@ https://www.youtube.com/watch?v=Z3A5qt4xfqo&ab_channel=AndrewMcgowan
 - Shots fired between two ships in scene 9 
 - Large particle system used to represent the fog / mist in scene 1
 - Particle system in final scene as the ship begins to jump
-- Credit scene is inside a particle syste,
+- Missiles in final scene have a trails that were created by a particle system
+- Credit scene is inside a particle system
 
 #### Trail Renderers
 - Trail renderers added to enemy fighters 
 
+#### Other visuals
+- Turrets movement when shooting done from coroutines and behaviour code along with particle system
+- The design of the ships from the asset store have been modified by myself to add turrets, change looks and also colors
+- There are no hardcoded behaviours for and ships, all either doing a behaviour or moving forward, there was no movement from set point to set point.
 
-## Storyboard:
+# Storyboard:
 
 ## Scene 1
 #### Camera
